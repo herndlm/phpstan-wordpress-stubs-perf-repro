@@ -1,0 +1,12 @@
+{
+    "name": "herndlm/phpstan-wordpress-stubs-perf-repro",
+    "autoload": {
+        "psr-4": {
+            "Herndlm\\PhpstanWordpressStubsPerfRepro\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.6",
+        "szepeviktor/phpstan-wordpress": "^1.0"
+    }
+}
